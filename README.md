@@ -7,6 +7,8 @@
 
 ## _"For never was a story of more woe than code not committed and pushed to Github..."_
 
+# Romeo: Hey there! What's your name?
+
 Before you know it, the add/commit/push/pull rhythm will become second nature, but to get there, we need to practice. What better way of practicing than to write a fantastic play?
 
 Both of you should start by cloning down this repository on each of your laptops. That way, you'll each have a local copy of what's in the remote repo on Github.
