@@ -1,3 +1,5 @@
+//This should have created a new branch 24.03.23
+
 <div align="center">
     <img alt="School of Code" src="./images/soc-logo.png" width="60" />
 </div>
@@ -37,6 +39,6 @@ If you run into any problems, use `git status` or `git log` in your terminal to 
 
 Once you're finished with your play, keep exploring and practicing with Git together.
 
-- Try creating a separate [branch](https://www.atlassian.com/git/tutorials/using-branches) each. Create your branch locally first, and then push your branches to the remote repository.
+- Try creating a separate [branch](git) each. Create your branch locally first, and then push your branches to the remote repository.
 - Try co-authoring commits using [this tutorial](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors).
 - Explore the [git FAQ](http://gitfaq.org/) and try out the commands - treat this repo as a "soft play" area and experiment!
