@@ -1,5 +1,7 @@
 //This is a 3rd branch created by Chris Branson as practice of creating and switching between branches
 
+I'm making a change here to see if I can merge branches
+
 ## Bonus Tasks
 
 Once you're finished with your play, keep exploring and practicing with Git together.
